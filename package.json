@@ -1,0 +1,28 @@
+{
+	"name": "electron-store",
+	"version": "1.0.0",
+	"description": "Data storage module for app preferences.",
+	"license": "MIT",
+	"repository": "jawadalik91/electron-store",
+	"author": {
+		"name": "Jawad Ali",
+		"email": "jawadalik91@gmail.com",
+		"url": ""
+	},
+	"keywords": [
+		"electron",
+		"store",
+		"app",
+		"config",
+		"storage",
+		"conf",
+		"configuration",
+		"settings",
+		"preferences",
+		"json",
+		"data",
+		"persist",
+		"persistent",
+		"save"
+	]
+}
