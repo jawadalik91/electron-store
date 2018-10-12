@@ -6,8 +6,7 @@
 	"repository": "jawadalik91/electron-store",
 	"author": {
 		"name": "Jawad Ali",
-		"email": "jawadalik91@gmail.com",
-		"url": ""
+		"email": "jawadalik91@gmail.com"
 	},
 	"keywords": [
 		"electron",
