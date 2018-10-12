@@ -1,6 +1,6 @@
 # electron-store
 
-One Paragraph of project description goes here
+Data storage module for app preferences.
 
 ## Getting Started
 
