@@ -1,5 +1,5 @@
 {
-	"name": "electron-store",
+	"name": "@jawadalik91/electron-store",
 	"version": "1.0.0",
 	"description": "Data storage module for app preferences.",
 	"license": "MIT",
