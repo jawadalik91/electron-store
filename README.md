@@ -67,7 +67,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Inspired with 
+
 *   redux store
 *   Medium blog
 *   react-electron boilerplate
